@@ -27,7 +27,7 @@ body{
 }
 
 .gallery .gallery-items {
-	gap: 10px;
+	gap: 15px;
 	display: flex;
 	justify-content: center;
 	flex-wrap: wrap;

@@ -1,0 +1,13 @@
+Website ini menggunakan HTML sebagai markup language atau kerangka utamanya dibantu dengan CSS sebagai styling nya, dan sedikit Javascirpt untuk membantu interaktif antar operator matematikanya, 
+
+HTML
+
+setiap tag/syntax memiliki class atau id sebagai selector untuk styling di CSS nya
+
+CSS
+
+setiap class di eksekusi dengan menambahkan value atau nilai sebuah properti yang diinginkan antara posisi atau warna dengan perpaduan styling yang pas
+
+JS
+
+setiap class pada tag di HTML di selector dengan DOM selection, untuk memanipulasi seperti di klik atau di hover, dan saat value (input) dimasukkan, dan menggunakan operator matematika +, -, *, dan / , maka JS otomatis memberikan nilai output saat mengklik =
